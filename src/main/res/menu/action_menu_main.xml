@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/searchbtn"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_search_dark"
+        android:title="Search"/>
+    <item
+        android:id="@+id/sharebtn"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_share_dark"
+        android:title="Share App"/>
+</menu>

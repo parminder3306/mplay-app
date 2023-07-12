@@ -1,0 +1,7 @@
+#Fri Apr 03 05:14:26 PDT 2020
+base.0=G\:\\MPlay\\app\\build\\intermediates\\dex\\release\\out\\classes.dex
+path.1=classes2.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=G\:\\MPlay\\app\\build\\intermediates\\dex\\release\\out\\classes2.dex

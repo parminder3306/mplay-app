@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_youtubeplayer.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\youtubeplayer.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\drawable_background.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\drawable\\background.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_card_channels.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\card_channels.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_info.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\info.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_two.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\activity_two.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_activity_main.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\drawable_circleindicator_round.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\drawable\\circleindicator_round.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\menu_action_menu.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\menu\\action_menu.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_splash.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\splash.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\drawable-v24_empty.png.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\drawable-v24\\empty.png"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_file_search.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\dialog_file_search.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\drawable_border.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\drawable\\border.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_slideshow.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\slideshow.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\drawable_media.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\drawable\\media.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_category.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\drawable\\ic_category.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_card_movies.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\card_movies.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\menu_action_menu_main.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\menu\\action_menu_main.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_search_dark.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\drawable\\ic_search_dark.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_channel.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\drawable\\ic_channel.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_progress.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_share_dark.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\drawable\\ic_share_dark.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_card_category.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\card_category.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_card_links.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\card_links.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\layout_dialog_caregory.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\layout\\dialog_caregory.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\drawable_ic_search.xml.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\drawable\\ic_search.xml"
+    },
+    {
+        "merged": "G:\\MPlay\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "G:\\MPlay\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="#fff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        tools:ignore="UselessParent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="5dp"
+                android:text="SEARCH VIDEOS"
+                android:textColor="@color/colorBlack"
+                android:textStyle="bold"
+                tools:ignore="HardcodedText" />
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:orientation="horizontal"
+            android:padding="10dp">
+
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/enter_search_keyword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp">
+
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="Video Name"
+                    android:inputType="text"
+                    android:maxLength="20"
+                    android:textColor="@color/colorBlack"
+                    android:textSize="14sp"
+                    tools:ignore="Autofill,HardcodedText" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/search_button"
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:background="#f3f7f8"
+            android:text="Search"
+            android:textColor="@color/colorBlack"
+            tools:ignore="HardcodedText"
+            android:foreground="?attr/selectableItemBackground"/>
+
+    </LinearLayout>
+</RelativeLayout>
